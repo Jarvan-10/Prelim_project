@@ -17,6 +17,11 @@ body{
    color:black;
      
  }
+ .video-container{
+     position:relative;
+     text-align:center;
+     
+ }
  img{
      width:150px;
      height :150px;
